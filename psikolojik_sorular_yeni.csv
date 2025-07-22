@@ -1,0 +1,17 @@
+soru_no,soru,evet_durumu,hayir_durumu
+1.0,Hiç birini kırdığın için kendini suçlu hissettin mi?,dogru,yalan
+2.0,Kendini olduğundan daha iyi göstermeye çalıştığın olur mu?,dogru,yalan
+3.0,Kimseyle paylaşamadığın bir sırrın var mı?,dogru,yalan
+4.0,En yakınlarına bile yalan söylediğin oldu mu?,dogru,yalan
+5.0,Zaman zaman kendinden nefret ettiğin oldu mu?,dogru,yalan
+6.0,Yalnız kalmaktan korkar mısın?,dogru,yalan
+7.0,Hiç insanların seni anlamadığını düşündün mü?,dogru,yalan
+8.0,Hep pozitif biri misindir?,yalan,dogru
+9.0,İnsanlara kolay güvenirsin diyebilir misin?,yalan,dogru
+10.0,Hiç maskeyle yaşadığını düşündün mü?,dogru,yalan
+11.0,Başkalarının onayını almak seni mutlu eder mi?,dogru,yalan
+12.0,Hiç güçlü görünmeye çalıştığın ama aslında kırıldığın oldu mu?,dogru,yalan
+13.0,Hayatında hiç kimseye gerçekten açıldın mı?,dogru,yalan
+14.0,Kendini çoğu zaman değersiz hissettin mi?,dogru,yalan
+15.0,Hiç ağladığını gizlediğin oldu mu?,dogru,yalan 
+

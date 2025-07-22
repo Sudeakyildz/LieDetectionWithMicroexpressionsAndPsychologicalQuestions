@@ -1,0 +1,796 @@
+KAPSAMLI YALAN TESPİT ANALİZİ
+==================================================
+
+Tarih: 20.06.2025 12:28:46
+Kullanıcı: Sude Nur Akyıldız
+Yaş: 22
+Meslek: ogrenci
+Cinsiyet: Kadın
+
+🔍 KAPSAMLI YALAN TESPİT ANALİZİ
+======================================================================
+
+🖼️ DEMO GÖRSELİ ANALİZİ:
+   👤 Yüz 1:
+      Duygular: {'angry': 0.07776808224353685, 'disgust': 0.0002600394664495493, 'fear': 0.08643864936388429, 'happy': 0.04706313764866517, 'sad': 1.3654276611165799, 'surprise': 0.004876579186740395, 'neutral': 98.4181641589501}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %3.4
+
+   👤 Yüz 2:
+      Duygular: {'angry': 0.873474300089562, 'disgust': 0.0026706373773360773, 'fear': 2.3962144677383344, 'happy': 14.527840670604625, 'sad': 10.701804077410213, 'surprise': 0.18073825805029178, 'neutral': 71.31725295576418}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %26.7
+
+   👤 Yüz 3:
+      Duygular: {'angry': 2.793805467713205, 'disgust': 0.025903967705419226, 'fear': 1.110079671298246, 'happy': 8.39422991241395, 'sad': 9.317832250465885, 'surprise': 0.7568129323758442, 'neutral': 77.60133609779692}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %18.4
+
+   👤 Yüz 4:
+      Duygular: {'angry': 0.010452788410475478, 'disgust': 4.1936669248343605e-06, 'fear': 0.12421587016433477, 'happy': 96.45866751670837, 'sad': 0.18630620324984193, 'surprise': 0.39401622489094734, 'neutral': 2.8263425454497337}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %71.8
+
+   👤 Yüz 5:
+      Duygular: {'angry': 0.010267260950058699, 'disgust': 4.0073974361121145e-06, 'fear': 0.1273055444471538, 'happy': 96.62933349609375, 'sad': 0.1618055161088705, 'surprise': 0.39503383450210094, 'neutral': 2.6762541383504868}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %71.7
+
+   👤 Yüz 6:
+      Duygular: {'angry': 5.277284234762192, 'disgust': 0.026504305424168706, 'fear': 1.5903264284133911, 'happy': 10.337942093610764, 'sad': 9.315036237239838, 'surprise': 0.8997131139039993, 'neutral': 72.55319356918335}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %21.3
+
+   👤 Yüz 7:
+      Duygular: {'angry': 0.009695436464607838, 'disgust': 1.176603726158617e-09, 'fear': 0.00027155007447380615, 'happy': 15.682778873112335, 'sad': 0.12709922970393542, 'surprise': 0.0023859302812264524, 'neutral': 84.17776415613125}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %15.6
+
+   👤 Yüz 8:
+      Duygular: {'angry': 0.004785894998349249, 'disgust': 2.776534427720301e-10, 'fear': 0.00014438347761824843, 'happy': 2.6172149926424026, 'sad': 0.073926558252424, 'surprise': 0.00015528570429523825, 'neutral': 97.30377197265625}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %4.4
+
+   👤 Yüz 9:
+      Duygular: {'angry': 0.011598653509281576, 'disgust': 6.302099120336635e-09, 'fear': 0.004686007741838694, 'happy': 17.254464328289032, 'sad': 0.18269786378368735, 'surprise': 0.0143112862133421, 'neutral': 82.53224492073059}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %17.2
+
+   👤 Yüz 10:
+      Duygular: {'angry': 0.011910331522813067, 'disgust': 2.4040192059260335e-08, 'fear': 0.011694543354678899, 'happy': 11.72165498137474, 'sad': 0.2585659734904766, 'surprise': 0.01208403191412799, 'neutral': 87.98409104347229}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %12.1
+
+   👤 Yüz 11:
+      Duygular: {'angry': 0.011187102669569796, 'disgust': 2.680548602886595e-08, 'fear': 0.011154460537034038, 'happy': 12.797822093703996, 'sad': 0.2507009143845337, 'surprise': 0.012686879256666214, 'neutral': 86.91645108657492}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %13.0
+
+   👤 Yüz 12:
+      Duygular: {'angry': 0.7326725870370865, 'disgust': 0.03066595527343452, 'fear': 0.5484427325427532, 'happy': 1.5208628959953785, 'sad': 6.515255570411682, 'surprise': 0.5661085247993469, 'neutral': 90.08598923683167}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %8.7
+
+   👤 Yüz 13:
+      Duygular: {'angry': 1.3713794760406017, 'disgust': 0.0006116670192568563, 'fear': 0.4579938482493162, 'happy': 39.4167959690094, 'sad': 9.701717644929886, 'surprise': 0.00411358050769195, 'neutral': 49.04739260673523}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %56.9
+
+   👤 Yüz 14:
+      Duygular: {'angry': 0.009344503246390806, 'disgust': 4.387857262375021e-09, 'fear': 0.004366435521371899, 'happy': 12.441770739344271, 'sad': 0.14712587573368838, 'surprise': 0.012059114687315487, 'neutral': 87.38532812770269}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %12.6
+
+   👤 Yüz 15:
+      Duygular: {'angry': 1.9359774887561798, 'disgust': 0.0012924869224661961, 'fear': 0.5359810311347246, 'happy': 25.360825657844543, 'sad': 16.486886143684387, 'surprise': 0.003251438101870008, 'neutral': 55.67578673362732}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %49.0
+
+   👤 Yüz 16:
+      Duygular: {'angry': 0.002269528340548277, 'disgust': 1.4562866190725998e-08, 'fear': 0.009829935879679397, 'happy': 32.82792866230011, 'sad': 0.11678416049107909, 'surprise': 0.01561252138344571, 'neutral': 67.02757477760315}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %33.8
+
+   👤 Yüz 17:
+      Duygular: {'angry': 0.655587429141249, 'disgust': 0.025841542895751766, 'fear': 0.6200784721272273, 'happy': 0.9387266450361398, 'sad': 4.656878018789174, 'surprise': 0.8223575098727649, 'neutral': 92.28053046944919}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %6.7
+
+   👤 Yüz 18:
+      Duygular: {'angry': 1.7054693773388863, 'disgust': 0.0008847739081829786, 'fear': 0.5125325173139572, 'happy': 28.922563791275024, 'sad': 13.248679041862488, 'surprise': 0.004458226976566948, 'neutral': 55.60541749000549}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %48.9
+
+   👤 Yüz 19:
+      Duygular: {'angry': 0.013426668156044114, 'disgust': 5.095957042094113e-08, 'fear': 0.015364110380509988, 'happy': 12.353143823521593, 'sad': 0.27506010160566585, 'surprise': 0.015570693759293111, 'neutral': 87.32743708222354}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %12.6
+
+   👤 Yüz 20:
+      Duygular: {'angry': 0.6387160159647465, 'disgust': 0.01991657045437023, 'fear': 0.7116774562746286, 'happy': 0.5816166289150715, 'sad': 5.036472529172897, 'surprise': 0.749655207619071, 'neutral': 92.26195216178894}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %6.7
+
+   👤 Yüz 21:
+      Duygular: {'angry': 1.4651658886769943, 'disgust': 0.0003670820197449641, 'fear': 0.4516788561897788, 'happy': 33.30912788564729, 'sad': 9.650128164895067, 'surprise': 0.005496479898481363, 'neutral': 55.11803359496794}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %49.0
+
+   👤 Yüz 22:
+      Duygular: {'angry': 0.28657155888209096, 'disgust': 0.0038090950053018334, 'fear': 0.26293782687561673, 'happy': 0.19211780726494238, 'sad': 2.538024599136388, 'surprise': 0.29123070988689126, 'neutral': 96.42530658395926}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %4.4
+
+   👤 Yüz 23:
+      Duygular: {'angry': 0.33735954837685245, 'disgust': 3.855523227365538e-05, 'fear': 0.0986729281673815, 'happy': 64.43697042024488, 'sad': 1.739988082350721, 'surprise': 0.007859523402509283, 'neutral': 33.3791037346001}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %66.3
+
+   👤 Yüz 24:
+      Duygular: {'angry': 0.004261346475686878, 'disgust': 2.0241877507487516e-06, 'fear': 0.03689290024340153, 'happy': 86.01527810096741, 'sad': 0.13842432526871562, 'surprise': 0.008798865746939555, 'neutral': 13.79634439945221}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %71.2
+
+   👤 Yüz 25:
+      Duygular: {'angry': 0.010390378156444058, 'disgust': 5.5812613197758765e-06, 'fear': 0.07790584350004792, 'happy': 82.12774991989136, 'sad': 0.2550174482166767, 'surprise': 0.0125571881653741, 'neutral': 17.516373097896576}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %70.7
+
+   👤 Yüz 26:
+      Duygular: {'angry': 0.017338108707426195, 'disgust': 9.150907562181823e-06, 'fear': 0.09761764086311867, 'happy': 79.08737908752214, 'sad': 0.35262755571275284, 'surprise': 0.012815486043335671, 'neutral': 20.432209022973893}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %70.2
+
+   👤 Yüz 27:
+      Duygular: {'angry': 1.9075427204370499, 'disgust': 1.8959637770876725e-05, 'fear': 1.9050192087888718, 'happy': 0.1680274261161685, 'sad': 3.2008949667215347, 'surprise': 0.0050656188250286505, 'neutral': 92.81343221664429}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %5.0
+
+   👤 Yüz 28:
+      Duygular: {'angry': 3.9055298083389034, 'disgust': 0.00031617542714071025, 'fear': 1.3616017305431687, 'happy': 0.3206385150163156, 'sad': 8.239640058321946, 'surprise': 0.0027774193185524337, 'neutral': 86.16949484711947}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %9.4
+
+   👤 Yüz 29:
+      Duygular: {'angry': 4.322598644804793, 'disgust': 0.00036552205338894654, 'fear': 2.0061392865943057, 'happy': 0.4438513022036913, 'sad': 7.80895296441948, 'surprise': 0.003817347624451384, 'neutral': 85.41427676847896}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %9.3
+
+   👤 Yüz 30:
+      Duygular: {'angry': 1.825261411086405, 'disgust': 3.058810942556292e-07, 'fear': 0.19936078485016734, 'happy': 0.02243277255743504, 'sad': 2.9031121971078035, 'surprise': 6.0398813464686684e-05, 'neutral': 95.0497743517026}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %4.6
+
+   👤 Yüz 31:
+      Duygular: {'angry': 4.0856219828128815, 'disgust': 1.5703228939401015e-06, 'fear': 0.5186420399695635, 'happy': 0.01890114654088393, 'sad': 3.431592509150505, 'surprise': 7.030552069409168e-05, 'neutral': 91.94517731666565}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %5.2
+
+   👤 Yüz 32:
+      Duygular: {'angry': 4.709537699818611, 'disgust': 2.183417713297331e-06, 'fear': 0.5895321257412434, 'happy': 0.018507819913793355, 'sad': 3.611109033226967, 'surprise': 0.00011010874914063606, 'neutral': 91.07120633125305}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %5.3
+
+   👤 Yüz 33:
+      Duygular: {'angry': 1.7442138042577389, 'disgust': 2.0884968245097552e-05, 'fear': 0.7434571139339873, 'happy': 0.10170787014933647, 'sad': 3.897251793578374, 'surprise': 0.0001223072518000918, 'neutral': 93.51322612245238}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %5.5
+
+   👤 Yüz 34:
+      Duygular: {'angry': 2.3879207231355144, 'disgust': 6.911018303226679e-06, 'fear': 0.8717615676976185, 'happy': 0.12701579428185786, 'sad': 2.6300737339302143, 'surprise': 0.00048672366747079857, 'neutral': 93.98273193733286}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %4.5
+
+   👤 Yüz 35:
+      Duygular: {'angry': 0.008153515471983683, 'disgust': 3.4966988143372026e-06, 'fear': 0.08584829488637089, 'happy': 96.98842131953494, 'sad': 0.12391452059248335, 'surprise': 0.3517060494221508, 'neutral': 2.4419621681525907}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %71.7
+
+   👤 Yüz 36:
+      Duygular: {'angry': 9.387104569213989e-05, 'disgust': 1.1820801282258486e-08, 'fear': 0.0002686293782971916, 'happy': 98.61000180244446, 'sad': 0.0013029527508479077, 'surprise': 0.07992385071702302, 'neutral': 1.3084061443805695}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %71.6
+
+   👤 Yüz 37:
+      Duygular: {'angry': 0.003094637577305548, 'disgust': 1.3753897576407326e-06, 'fear': 0.03363972355145961, 'happy': 98.17683696746826, 'sad': 0.03687990247271955, 'surprise': 0.28782873414456844, 'neutral': 1.4617253094911575}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %71.6
+
+   👤 Yüz 38:
+      Duygular: {'angry': 0.0030822395292467715, 'disgust': 2.7117227414491587e-06, 'fear': 0.0035987466943401734, 'happy': 98.23590506529243, 'sad': 0.02036184135652878, 'surprise': 0.1859864912956352, 'neutral': 1.5510695979636668}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %71.6
+
+   👤 Yüz 39:
+      Duygular: {'angry': 0.0047225164789873085, 'disgust': 2.9523356237463896e-06, 'fear': 0.03064368719012294, 'happy': 95.0509315668426, 'sad': 0.041229843369294, 'surprise': 0.27527528793063305, 'neutral': 4.597189101911891}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %71.6
+
+   👤 Yüz 40:
+      Duygular: {'angry': 0.00011103229553555138, 'disgust': 3.103829138151326e-08, 'fear': 0.00041794714888965245, 'happy': 98.87462258338928, 'sad': 0.0034353124647168443, 'surprise': 0.05330510903149843, 'neutral': 1.0681082494556904}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %71.6
+
+   👤 Yüz 41:
+      Duygular: {'angry': 9.81197276181542e-05, 'disgust': 1.1211907722099804e-10, 'fear': 0.00015966428278603274, 'happy': 0.00031969099923232473, 'sad': 0.016368962926895943, 'surprise': 8.57349442582975e-07, 'neutral': 99.98305439848032}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %2.4
+
+   👤 Yüz 42:
+      Duygular: {'angry': 0.0027083900931756943, 'disgust': 2.713697933032222e-07, 'fear': 0.017478987865615636, 'happy': 0.008808883285382763, 'sad': 0.30887972097843885, 'surprise': 9.052594407421566e-06, 'neutral': 99.66211318969727}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %2.6
+
+   👤 Yüz 43:
+      Duygular: {'angry': 9.288978617405519e-05, 'disgust': 5.6586365367733427e-11, 'fear': 0.00010885796655202284, 'happy': 0.00023802472242095973, 'sad': 0.010344968904973939, 'surprise': 1.13401403822877e-06, 'neutral': 99.98921155929565}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %2.4
+
+   👤 Yüz 44:
+      Duygular: {'angry': 0.00013159776267568127, 'disgust': 1.2135139535739764e-10, 'fear': 0.00017244139134869505, 'happy': 0.0002773124048436407, 'sad': 0.01439926683147796, 'surprise': 1.3604975078936792e-06, 'neutral': 99.98501539408977}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %2.4
+
+   👤 Yüz 45:
+      Duygular: {'angry': 3.805003130973428e-05, 'disgust': 6.328421750195127e-12, 'fear': 2.041797801096001e-05, 'happy': 0.0003784810584040945, 'sad': 0.002853786621973559, 'surprise': 1.195154340304061e-06, 'neutral': 99.99670982321618}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %2.4
+
+   👤 Yüz 46:
+      Duygular: {'angry': 0.0009860961654339917, 'disgust': 2.1234042302253897e-09, 'fear': 0.0013144567674316932, 'happy': 0.0016193695046240464, 'sad': 0.05051858024671674, 'surprise': 2.6869631852832754e-06, 'neutral': 99.94556307792664}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %2.5
+
+   👤 Yüz 47:
+      Duygular: {'angry': 47.382354736328125, 'disgust': 7.985821726119724e-09, 'fear': 0.3139830892905593, 'happy': 7.204932472859582e-06, 'sad': 48.606619238853455, 'surprise': 6.24094959739141e-11, 'neutral': 3.6970391869544983}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %51.8
+
+   👤 Yüz 48:
+      Duygular: {'angry': 0.0020771361960214563, 'disgust': 5.152863205570846e-09, 'fear': 0.0027056077669840306, 'happy': 0.0019782328308792785, 'sad': 0.07929739076644182, 'surprise': 3.3095510332259437e-06, 'neutral': 99.91394281387329}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %2.5
+
+   👤 Yüz 49:
+      Duygular: {'angry': 46.63689990483521, 'disgust': 6.622334026782031e-09, 'fear': 0.3058729825091937, 'happy': 6.212473410215639e-06, 'sad': 49.25815156199355, 'surprise': 5.743130180911779e-11, 'neutral': 3.7990690081201803}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %52.5
+
+   👤 Yüz 50:
+      Duygular: {'angry': 0.0006605890060130706, 'disgust': 1.3489089989926488e-09, 'fear': 0.00325315869595125, 'happy': 0.0005686917004548189, 'sad': 0.14450696459826615, 'surprise': 1.3050916681429387e-07, 'neutral': 99.85101222103907}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %2.5
+
+   👤 Yüz 51:
+      Duygular: {'angry': 26.943930983543396, 'disgust': 8.093093306626997e-07, 'fear': 1.2216378934681416, 'happy': 1.6857492823874054e-05, 'sad': 68.55419278144836, 'surprise': 3.1141516448895956e-09, 'neutral': 3.280220180749893}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %65.9
+
+   👤 Yüz 52:
+      Duygular: {'angry': 49.97972548249656, 'disgust': 1.5567767440076374e-08, 'fear': 0.33413333094765774, 'happy': 5.811978827034465e-06, 'sad': 41.0862098829496, 'surprise': 3.0747033195679897e-09, 'neutral': 8.599924016007899}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %46.2
+
+   👤 Yüz 53:
+      Duygular: {'angry': 30.35506478427296, 'disgust': 7.840956235591301e-07, 'fear': 1.1238712931880253, 'happy': 1.736102616306303e-05, 'sad': 65.04698633027402, 'surprise': 3.22723680496592e-09, 'neutral': 3.4740506770489987}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %64.3
+
+   👤 Yüz 54:
+      Duygular: {'angry': 39.507195353507996, 'disgust': 2.2900801255332226e-07, 'fear': 0.9453035891056061, 'happy': 1.3857479075340962e-05, 'sad': 54.11306023597717, 'surprise': 1.4576660711806966e-08, 'neutral': 5.43443039059639}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %57.9
+
+   👤 Yüz 55:
+      Duygular: {'angry': 28.56877914481039, 'disgust': 7.721135302813148e-07, 'fear': 1.126686830174138, 'happy': 1.4718474428345817e-05, 'sad': 67.12719602150894, 'surprise': 3.3817037992698754e-09, 'neutral': 3.1773256169155606}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %65.2
+
+   👤 Yüz 56:
+      Duygular: {'angry': 30.165719985961914, 'disgust': 6.898799753685125e-07, 'fear': 1.1258401907980442, 'happy': 1.544033949585355e-05, 'sad': 65.24382829666138, 'surprise': 3.1507116360351972e-09, 'neutral': 3.464594855904579}
+      Analiz yapılamadı
+      Kullanıcı ile Benzerlik (Cosine): %64.4
+
+
+🔬 YÜZ İFADESİ REFERANSINA GÖRE:
+   Yalan Referans Benzerliği: %73.0
+   Doğru Referans Benzerliği: %9.2
+   Sonuç: YALAN söylüyorsunuz (Benzerlik: %73.0)
+──────────────────────────────────────────────────
+
+🔹 SORU 1:
+   📝 Verilen Cevap: Evet
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: DOGRU
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: DORU
+      Güven Oranı: %72.7
+      Yalan Oranı: %27.3
+      Doğru Oranı: %72.7
+      Toplam Analiz: 11 frame
+      Duygu Dağılımı: {'sad': 3, 'happy': 8}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: DORU
+      Doğruluk Yüzdesi: %99.35
+      Yalan Yüzdesi: %0.65
+      Benzerlik Oranı: %99.4
+      Doğru Benzerliği: %99.4
+      Yalan Benzerliği: %19.5
+      Test Veri Sayısı: 11 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: DORU
+      Güven Oranı: %45.0
+      Doğru Puanı: 0.45
+      Yalan Puanı: 0.40
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 2:
+   📝 Verilen Cevap: Evet
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: DOGRU
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: DORU
+      Güven Oranı: %76.5
+      Yalan Oranı: %23.5
+      Doğru Oranı: %76.5
+      Toplam Analiz: 17 frame
+      Duygu Dağılımı: {'happy': 13, 'sad': 4}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: DORU
+      Doğruluk Yüzdesi: %95.58
+      Yalan Yüzdesi: %4.42
+      Benzerlik Oranı: %95.6
+      Doğru Benzerliği: %95.6
+      Yalan Benzerliği: %29.4
+      Test Veri Sayısı: 17 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: DORU
+      Güven Oranı: %45.0
+      Doğru Puanı: 0.45
+      Yalan Puanı: 0.40
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 3:
+   📝 Verilen Cevap: Hayır
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: YALAN
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: DORU
+      Güven Oranı: %60.0
+      Yalan Oranı: %40.0
+      Doğru Oranı: %60.0
+      Toplam Analiz: 5 frame
+      Duygu Dağılımı: {'happy': 3, 'sad': 2}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: DORU
+      Doğruluk Yüzdesi: %100.0
+      Yalan Yüzdesi: %0.0
+      Benzerlik Oranı: %100.0
+      Doğru Benzerliği: %100.0
+      Yalan Benzerliği: %55.5
+      Test Veri Sayısı: 5 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: DORU
+      Güven Oranı: %45.0
+      Doğru Puanı: 0.45
+      Yalan Puanı: 0.40
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 4:
+   📝 Verilen Cevap: Evet
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: DOGRU
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: DORU
+      Güven Oranı: %50.0
+      Yalan Oranı: %50.0
+      Doğru Oranı: %50.0
+      Toplam Analiz: 4 frame
+      Duygu Dağılımı: {'sad': 2, 'happy': 2}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: DORU
+      Doğruluk Yüzdesi: %70.71
+      Yalan Yüzdesi: %29.29
+      Benzerlik Oranı: %70.7
+      Doğru Benzerliği: %70.7
+      Yalan Benzerliği: %68.6
+      Test Veri Sayısı: 4 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: DORU
+      Güven Oranı: %45.0
+      Doğru Puanı: 0.45
+      Yalan Puanı: 0.40
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 5:
+   📝 Verilen Cevap: Hayır
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: YALAN
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: YALAN
+      Güven Oranı: %100.0
+      Yalan Oranı: %100.0
+      Doğru Oranı: %0.0
+      Toplam Analiz: 3 frame
+      Duygu Dağılımı: {'sad': 3}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: YALAN
+      Doğruluk Yüzdesi: %0.0
+      Yalan Yüzdesi: %100.0
+      Benzerlik Oranı: %100.0
+      Doğru Benzerliği: %24.3
+      Yalan Benzerliği: %100.0
+      Test Veri Sayısı: 3 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: YALAN
+      Güven Oranı: %85.0
+      Doğru Puanı: 0.00
+      Yalan Puanı: 0.85
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 6:
+   📝 Verilen Cevap: Evet
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: DOGRU
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: YALAN
+      Güven Oranı: %66.7
+      Yalan Oranı: %66.7
+      Doğru Oranı: %33.3
+      Toplam Analiz: 3 frame
+      Duygu Dağılımı: {'sad': 2, 'happy': 1}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: YALAN
+      Doğruluk Yüzdesi: %10.56
+      Yalan Yüzdesi: %89.44
+      Benzerlik Oranı: %89.4
+      Doğru Benzerliği: %44.7
+      Yalan Benzerliği: %89.4
+      Test Veri Sayısı: 3 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: YALAN
+      Güven Oranı: %85.0
+      Doğru Puanı: 0.00
+      Yalan Puanı: 0.85
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 7:
+   📝 Verilen Cevap: Hayır
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: YALAN
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: DORU
+      Güven Oranı: %100.0
+      Yalan Oranı: %0.0
+      Doğru Oranı: %100.0
+      Toplam Analiz: 4 frame
+      Duygu Dağılımı: {'happy': 4}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: YALAN
+      Doğruluk Yüzdesi: %100.0
+      Yalan Yüzdesi: %0.0
+      Benzerlik Oranı: %0.0
+      Doğru Benzerliği: %0.0
+      Yalan Benzerliği: %0.0
+      Test Veri Sayısı: 4 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: YALAN
+      Güven Oranı: %60.0
+      Doğru Puanı: 0.25
+      Yalan Puanı: 0.60
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 8:
+   📝 Verilen Cevap: Evet
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: YALAN
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: DORU
+      Güven Oranı: %50.0
+      Yalan Oranı: %50.0
+      Doğru Oranı: %50.0
+      Toplam Analiz: 4 frame
+      Duygu Dağılımı: {'sad': 2, 'happy': 2}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: YALAN
+      Doğruluk Yüzdesi: %29.29
+      Yalan Yüzdesi: %70.71
+      Benzerlik Oranı: %70.7
+      Doğru Benzerliği: %70.7
+      Yalan Benzerliği: %70.7
+      Test Veri Sayısı: 4 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: YALAN
+      Güven Oranı: %60.0
+      Doğru Puanı: 0.25
+      Yalan Puanı: 0.60
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 9:
+   📝 Verilen Cevap: Hayır
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: DOGRU
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: DORU
+      Güven Oranı: %66.7
+      Yalan Oranı: %33.3
+      Doğru Oranı: %66.7
+      Toplam Analiz: 3 frame
+      Duygu Dağılımı: {'happy': 2, 'sad': 1}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: DORU
+      Doğruluk Yüzdesi: %86.82
+      Yalan Yüzdesi: %13.18
+      Benzerlik Oranı: %86.8
+      Doğru Benzerliği: %86.8
+      Yalan Benzerliği: %44.7
+      Test Veri Sayısı: 3 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: DORU
+      Güven Oranı: %45.0
+      Doğru Puanı: 0.45
+      Yalan Puanı: 0.40
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 10:
+   📝 Verilen Cevap: Evet
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: DOGRU
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi: Yeterli veri yok
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: DORU
+      Doğruluk Yüzdesi: %100.0
+      Yalan Yüzdesi: %0.0
+      Benzerlik Oranı: %100.0
+      Doğru Benzerliği: %100.0
+      Yalan Benzerliği: %0.0
+      Test Veri Sayısı: 2 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: YALAN
+      Güven Oranı: %40.0
+      Doğru Puanı: 0.20
+      Yalan Puanı: 0.40
+      Kullanılan Analiz: 3/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 11:
+   📝 Verilen Cevap: Hayır
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: YALAN
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: DORU
+      Güven Oranı: %66.7
+      Yalan Oranı: %33.3
+      Doğru Oranı: %66.7
+      Toplam Analiz: 3 frame
+      Duygu Dağılımı: {'sad': 1, 'happy': 2}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: DORU
+      Doğruluk Yüzdesi: %86.82
+      Yalan Yüzdesi: %13.18
+      Benzerlik Oranı: %86.8
+      Doğru Benzerliği: %86.8
+      Yalan Benzerliği: %44.7
+      Test Veri Sayısı: 3 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: DORU
+      Güven Oranı: %45.0
+      Doğru Puanı: 0.45
+      Yalan Puanı: 0.40
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 12:
+   📝 Verilen Cevap: Evet
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: DOGRU
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: YALAN
+      Güven Oranı: %60.0
+      Yalan Oranı: %60.0
+      Doğru Oranı: %40.0
+      Toplam Analiz: 5 frame
+      Duygu Dağılımı: {'sad': 3, 'happy': 2}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: YALAN
+      Doğruluk Yüzdesi: %16.79
+      Yalan Yüzdesi: %83.21
+      Benzerlik Oranı: %83.2
+      Doğru Benzerliği: %69.2
+      Yalan Benzerliği: %83.2
+      Test Veri Sayısı: 5 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: YALAN
+      Güven Oranı: %85.0
+      Doğru Puanı: 0.00
+      Yalan Puanı: 0.85
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 13:
+   📝 Verilen Cevap: Hayır
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: YALAN
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: YALAN
+      Güven Oranı: %100.0
+      Yalan Oranı: %100.0
+      Doğru Oranı: %0.0
+      Toplam Analiz: 4 frame
+      Duygu Dağılımı: {'sad': 4}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: YALAN
+      Doğruluk Yüzdesi: %0.0
+      Yalan Yüzdesi: %100.0
+      Benzerlik Oranı: %100.0
+      Doğru Benzerliği: %100.0
+      Yalan Benzerliği: %100.0
+      Test Veri Sayısı: 4 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: YALAN
+      Güven Oranı: %85.0
+      Doğru Puanı: 0.00
+      Yalan Puanı: 0.85
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 14:
+   📝 Verilen Cevap: Evet
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: DOGRU
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: YALAN
+      Güven Oranı: %60.0
+      Yalan Oranı: %60.0
+      Doğru Oranı: %40.0
+      Toplam Analiz: 5 frame
+      Duygu Dağılımı: {'happy': 2, 'sad': 3}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: YALAN
+      Doğruluk Yüzdesi: %16.79
+      Yalan Yüzdesi: %83.21
+      Benzerlik Oranı: %83.2
+      Doğru Benzerliği: %55.5
+      Yalan Benzerliği: %83.2
+      Test Veri Sayısı: 5 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: YALAN
+      Güven Oranı: %85.0
+      Doğru Puanı: 0.00
+      Yalan Puanı: 0.85
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🔹 SORU 15:
+   📝 Verilen Cevap: Hayır
+
+   🧠 Psikolojik Analiz:
+      Beklenen Durum: YALAN 
+      Doğruluk Oranı: %75.0
+
+   😊 Mikro İfade Analizi (Regresyon):
+      Tahmin: YALAN
+      Güven Oranı: %66.7
+      Yalan Oranı: %66.7
+      Doğru Oranı: %33.3
+      Toplam Analiz: 9 frame
+      Duygu Dağılımı: {'sad': 6, 'happy': 3}
+
+   🖼️ Dataset Yüz İfadesi Analizi:
+      Tahmin: YALAN
+      Doğruluk Yüzdesi: %10.56
+      Yalan Yüzdesi: %89.44
+      Benzerlik Oranı: %89.4
+      Doğru Benzerliği: %65.1
+      Yalan Benzerliği: %89.4
+      Test Veri Sayısı: 9 frame
+
+   🎯 GENEL SONUÇ:
+      Tahmin: YALAN
+      Güven Oranı: %85.0
+      Doğru Puanı: 0.00
+      Yalan Puanı: 0.85
+      Kullanılan Analiz: 4/5 (Demo ve Yüz referansı dahil)
+
+──────────────────────────────────────────────────
+
+🏆 GENEL İSTATİSTİKLER:
+==================================================
+📊 Toplam Soru: 15
+✅ Doğru Tahmin: 6
+❌ Yalan Tahmin: 9
+📈 Ortalama Güven Oranı: %62.7
+🎯 GENEL KARAR: YALAN SÖYLÜYORSUNUZ

@@ -1,0 +1,9 @@
+PyQt5
+opencv-python
+numpy
+pandas==2.1.4
+deepface==0.0.79
+tensorflow
+scikit-learn
+matplotlib
+tqdm 
